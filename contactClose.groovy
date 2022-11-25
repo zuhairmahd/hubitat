@@ -11,7 +11,7 @@ definition (
 	author: 		"Jean P. May, Jr.",
 	description: 	"Logic Check .",
 	category: 		"Utility",
-	importUrl: "https://raw.githubusercontent.com/thebearmay/hubitat/main/apps/xxxxx.groovy",
+	importUrl: "https://raw.githubusercontent.com/zuhairmahd/hubitat/main/contactClose.groovy",
 	oauth: 			false,
     iconUrl:        "",
     iconX2Url:      ""
